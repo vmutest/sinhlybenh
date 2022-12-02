@@ -1,0 +1,1434 @@
+﻿Câu 1. Mỗi phân tử kháng thể IgG đơn phân trong huyết thanh có bao nhiêu chuỗi polypeptide:
+ 1
+ 2
+* 4
+ 10
+
+Câu 2. Một phân tử IgM trong huyết thanh có mấy vị trí kết hợp kháng nguyên:
+ 1
+ 2
+ 5
+* 10
+
+Câu 3. Một phân tử IgM hoàn chỉnh trong huyết thanh cấu tạo bởi bao nhiêu chuỗi polypeptide:
+ 4
+ 5
+ 10
+* cả 4 lựa chọn trên đều sai
+
+Câu 4. Tế bào sản xuất kháng thể là :
+ lympho bào B
+ lympho bào T
+* tế bào plasma (tuơng bào, plasmocyte)
+ đại thực bào
+
+Câu 5. Lớp kháng thể nào có thể đi qua được màng rau thai vào cơ thể thai nhi:
+ IgM
+ IgA
+* IgG
+ IgM và IgG
+
+Câu 6. Kháng thể tự nhiên chống kháng nguyên hồng cầu hệ ABO chủ yếu thuộc lớp kháng thể:
+ IgG
+ IgG và IgA
+ IgA và IgM
+* IgM
+
+Câu 7. Tiêm SAT dự phòng bệnh uốn ván là:
+ đưa kháng nguyên uốn ván vào cơ thể để gây miễn dịch chống uốn ván
+ đưa kháng nguyên uốn ván cùng với kháng thể chống uốn ván vào cơ thể
+* đưa kháng thể chống uốn ván vào cơ thể
+ đưa giải độc tố uốn ván vào cơ thể nhằm tạo đáp ứng miễn dịch chủ động chống uốn ván
+
+Câu 8. Tiêm hoặc cho uống vacxin phòng bệnh là:
+ đưa kháng thể chống mầm bệnh vào cơ thể, tạo ra trạng thái miễn dịch thụ động ở cơ thể được sử dụng vacxin
+ đưa kháng nguyên mầm bệnh vào cơ thể nhằm tạo ra trạng thái miễn dịch thụ động chống mầm bệnh khi mầm bệnh xâm nhập vào cơ thể được tiêm (hoặc uống) vacxin 
+* đưa kháng nguyên mầm bệnh vào cơ thể nhằm tạo ra trạng thái miễn dịch chủ động chống mầm bệnh khi mầm bệnh xâm nhập vào cơ thể được tiêm (hoặc uống) vacxin 
+ đưa kháng nguyên mầm bệnh cùng với kháng thể chống mầm bệnh vào cơ thể
+
+Câu 9. Bản chất của kháng thể là:
+ glycoprotein
+ albumin
+* globulin
+ lipoprotein
+
+Câu 10. Kháng thể "opsonin hoá" trong hiện tượng thực bào có khả năng:
+ hoạt hoá tế bào thực bào
+ kết hợp với vật lạ và làm tan vật lạ
+* kết hợp với vật lạ
+ gắn lên tế bào thực bào, qua đó làm giảm khả năng thâu tóm vật lạ của tế bào thực bào
+
+10 Kháng thể "opsonin hoá" trong hiện tượng thực bào có khả năng:
+ hoạt hoá tế bào thực bào
+ kết hợp với vật lạ và làm tan vật lạ
+* gắn lên tế bào thực bào, qua đó làm tăng khả năng thâu tóm vật lạ của tế bào thực bào
+ gắn lên tế bào thực bào, qua đó làm giảm khả năng thâu tóm vật lạ của tế bào thực bào
+
+Câu 11. Kháng thể chống hồng cầu cừu có thể gây tan hồng cầu cừu khi:
+ không cần sự tham gia của bổ thể
+* có sự tham gia của bổ thể; bổ thể trực tiếp gây tan hồng cầu cừu
+ có sự tham gia của bổ thể; kháng thể trực tiếp gây tan hồng cầu cừu
+ có sự hỗ trợ của yếu tố hỗ trợ do lympho bào T sản xuất ra
+
+Câu 12. Khi kháng nguyên hữu hình kết hợp với kháng thể đặc hiệu, có thể xảy ra hiện tượng:
+ kết tủa
+ khuếch tán 
+ kết dính 
+* ngưng kết
+
+Câu 13. Trong đáp ứng tạo kháng thể lần 1 đối với một kháng nguyên, kháng thể được hình thành chủ yếu thuộc lớp :
+ IgG
+* IgM
+ IgA
+ IgE
+
+Câu 14. Trong đáp ứng tạo kháng thể lần 2 đối với một kháng nguyên, kháng thể được hình thành chủ yếu thuộc lớp :
+* IgG
+ IgM
+ IgA
+ IgE
+
+Câu 15. Kháng thể từ cơ thể mẹ chuyển qua màng rau thai vào cơ thể thai nhi tạo ra trạng thái miễn dịch gì ở cơ thể thai nhi và trẻ sơ sinh sau đó:
+ miễn dịch vay mượn
+ miễn dịch chủ động
+* miễn dịch thụ động
+ miễn dịch thu được
+
+15 Kháng thể từ cơ thể mẹ chuyển qua màng rau thai vào cơ thể thai nhi tạo ra trạng thái miễn dịch gì ở cơ thể thai nhi và trẻ sơ sinh sau đó:
+ miễn dịch vay mượn
+ miễn dịch chủ động
+* miễn dịch tự nhiên
+ miễn dịch thu được
+
+Câu 16. Kháng thể đơn clôn là:
+ kháng thể do một clôn tế bào sản xuất ra, có khả năng kết hợp với nhiều kháng nguyên khác nhau
+ kháng thể do nhiều clôn tế bào sản xuất ra, có khả năng kết hợp với cùng một kháng nguyên nào đó
+* kháng thể do một clôn tế bào sản xuất
+ kháng thể đặc hiệu với một quyết định kháng nguyên nào đó
+
+16 Kháng thể đơn clôn là:
+ kháng thể do một clôn tế bào sản xuất ra, có khả năng kết hợp với nhiều kháng nguyên khác nhau
+ kháng thể do nhiều clôn tế bào sản xuất ra, có khả năng kết hợp với cùng một kháng nguyên nào đó
+* kháng thể đặc hiệu với một quyết định kháng nguyên nào đó
+
+Câu 17. So với đáp ứng tạo kháng thể lần 1, đáp ứng tạo kháng thể lần 2 (đối với cùng một kháng nguyên) có :
+ thời gian tồn tại như nhau, cường độ lớn hơn
+ cường độ như nhau, thời gian tồn tại dài hơn
+ thời gian tiềm tàng như nhau, thời gian tồn tại và cường độ lớn hơn
+* kháng thể chủ yếu thuộc lớp IgM
+
+Câu 18. So với đáp ứng tạo kháng thể lần 1, đáp ứng tạo kháng thể lần 2 (đối với cùng một kháng nguyên) có :
+ thời gian tiềm tàng như nhau, thời gian tồn tại dài hơn và cường độ lớn hơn
+ thời gian tiềm tàng dài hơn, thời gian tồn tại dài hơn và cường độ lớn hơn
+* thời gian tiềm tàng ngắn hơn, thời gian tồn tại dài hơn và cường độ lớn hơn
+ thời gian tiềm tàng ngắn hơn, thời gian tồn tại ngắn hơn và cường độ lớn hơn
+
+Câu 19. Hai phân tử kháng thể IgG đặc hiệu với cùng một quyết định kháng nguyên, lấy từ hai cơ thể khác gien cùng loài :
+ giống nhau hoàn toàn về cấu trúc phân tử
+ giống nhau về cấu trúc chuỗi nặng
+ giống nhau về cấu trúc chuỗi nhẹ
+* giống nhau về vị trí gắn kháng nguyên
+
+Câu 20. Kháng thể thuộc lớp nào có thể từ cơ thể mẹ đi qua được màng rau thai vào cơ thể thai nhi:
+* IgG
+ IgM
+ IgA
+ IgE
+
+Câu 21. Kháng thể thuộc lớp nào có khả năng gây phản ứng ngưng kết mạnh nhất :
+ IgG
+* IgM
+ IgA
+ IgE
+
+Câu 22. Kháng thể IgE thường tham gia trực tiếp vào hiện tượng (hoặc hiệu quả) gì trong các hiện tượng (hoặc hiệu quả) sau đây :
+ opsonin hoá
+ hiệu quả ADCC (gây độc tế bào bởi tế bào phụ thuộc kháng thể)
+* hiệu quả canh cửa 
+ trung hoà ngoại độc tố vi khuẩn
+
+Câu 22. Kháng thể IgE thường tham gia trực tiếp vào hiện tượng (hoặc hiệu quả) gì trong các hiện tượng (hoặc hiệu quả) sau đây :
+ opsonin hoá
+ hiệu quả ADCC (gây độc tế bào bởi tế bào phụ thuộc kháng thể)
+ trung hoà ngoại độc tố vi khuẩn
+* dị ứng do IgE (qua mẫn tức thì)
+
+Câu 23. Kháng thể IgE có thể gắn lên bề mặt của các tế bào nào dưới đây :
+ bạch cầu trung tính
+* bạch cầu ái kiềm 
+ bạch cầu ái toan
+ tế bào mast
+
+Câu 23. Kháng thể IgE có thể gắn lên bề mặt của các tế bào nào dưới đây :
+ bạch cầu trung tính
+ bạch cầu ái toan
+* tế bào mast
+ lympho bào B
+
+Câu 24. Kháng thể IgE có thể có ảnh hưởng trực tiếp đến những quá trình nào trong các quá trình dưới đây:
+ thực bào
+ gây độc tế bào bởi lympho bào Tc
+* giải phóng amin hoạt mạch
+ sản xuất lymphokin
+
+Câu 25. Sự sản xuất IgA tiết trong lòng ống tiêu hoá có sự tham gia trực tiếp của các tế bào :
+ tế bào plasma
+ đại thực bào
+ tế bào biểu mô niêm mạc ống tiêu hoá 
+* lựa chọn A và C
+
+Câu 26. Kháng thể IgA tiết thường có mặt trong :
+ dịch nhày đường tiêu hoá, hô hấp
+ huyết tương
+ nước bọt
+* B sai
+
+Câu 27. Chức năng sinh học của kháng thể trong đáp ứng miễn dịch :
+ chỉ thể hiện khi kháng thể kết hợp đặc hiệu với kháng nguyên
+* Tất cả đều đúng
+ thể hiện ở việc kháng thể sau khi gắn với kháng nguyên trên bề mặt tế bào đích thì có thể cố định bổ thể dẫn đến tan tế bào đích 
+ thể hiện ở việc kháng thể có thể gắn với một số ngoại độc tố vi khuẩn, làm trung hoà các độc tố này
+
+Câu 28. Kháng thể có thể trực tiếp gây ra những tác động, hiệu quả hoặc hiện tượng gì trong số các tác động, hiệu quả hoặc hiện tượng dưới đây :
+ cố định bổ thể, đưa đến hoạt hoá bổ thể
+* A và D đúng
+ tan tế bào vi khuẩn (không cần sự tham gia của bổ thể)
+ opsonin hoá
+
+Câu 29. Hoạt tính sinh học của kháng thể IgE :
+ tương tự như IgG, nghĩa là IgE có thể kết hợp với kháng nguyên, gây ra những hiệu quả tương tự như khi IgG kết hợp với kháng nguyên
+ khác với của IgG ở chỗ IgE chỉ có thể tham gia vào hiện tượng opsonin hoá chứ không tham gia vào các hiệu quả khác mà IgG có thể tham gia, như cố định bổ thể, làm tan tế bào đích ...
+* khác với các lớp kháng thể khác ở chỗ IgE không trực tiếp tham gia vào các hiện tượng (hoặc hiệu quả) như kháng thể nói chung (chẳng hạn opsonin hoá, cố định bổ thể, làm tan tế bào đích ...), mà nó có tác dụng tạo thuận cho các cơ chế đáp ứng miễn dịch khác
+ tương tự như các lớp kháng thể khác ở chỗ IgE thể hiện các hoạt tính này khi ở dạng tự do lưu hành trong máu ngoại vi
+
+Câu 30. Nồng độ kháng thể IgE trong huyết thanh :
+ khá cao, chỉ đứng sau kháng thể IgG
+ rất thấp, vì IgE có khả năng kết hợp kháng nguyên cao, do đó khi được sản xuất ra sẽ kết hợp với kháng nguyên, dẫn đến giảm nồng độ trong huyết thanh 
+ rất thấp, vì IgE khi được sản xuất ra sẽ gắn với các tế bào đại thực bào
+* rất thấp, vì IgE khi được sản xuất ra sẽ gắn với các tế bào mast, bạch cầu ái kiềm 
+
+Câu 31. Hoạt tính sinh học của IgE :
+ chỉ có thể được thể hiện khi có sự tham gia trực tiếp của tế bào đại thực bào
+ chỉ có thể được thể hiện khi có sự tham gia trực tiếp của lympho bào T
+ chỉ có thể được thể hiện khi có sự tham gia trực tiếp của bổ thể
+* chỉ có thể được thể hiện có sự tham gia trực tiếp của tế bào mast, bạch cầu ái kiềm
+
+Câu 32. Tế bào nào có khả năng sản xuất kháng thể IgE:
+ tế bào mast
+ bạch cầu ái kiềm
+* tế bào plasma
+ lympho bào B
+
+Câu 33. ở người nhiễm HIV/AIDS:
+ không có sự giảm tổng hợp kháng thể, vì các lympho bào B và tế bào plasma không bị HIV tấn công
+ có sự giảm tổng hợp kháng thể, vì HIV tấn công các lympho bào B, làm cho các tế bào này không biệt hoá thành tế bào plasma để sản xuất kháng thể được
+ có sự giảm tổng hợp kháng thể, vì HIV tấn công các tế bào plasma, làm cho các tế bào này không sản xuất kháng thể được
+* có sự giảm tổng hợp kháng thể, mặc dù HIV không tấn công trực tiếp các lympho bào B và tế bào plasma
+
+Câu 34. Người nhiễm HIV/AIDS thường dễ mắc bệnh lao vì :
+ cơ thể những người này suy giảm khả năng sản xuất kháng thể chống lao
+ các tế bào thực bào ở những người này giảm khả năng bắt giữ vi khuẩn lao
+ cơ thể những người này suy giảm khả năng đáp ứng miễn dịch tế bào kiểu gây độc tế bào, do đó giảm khả năng tiêu diệt vi khuẩn lao
+* cơ thể những người này suy giảm khả năng đáp ứng miễn dịch tế bào kiểu quá mẫn muộn, do đó giảm khả năng tiêu diệt vi khuẩn lao
+
+Câu 35. Người nhiễm HIV/AIDS thường có các biểu hiện của :
+ suy giảm đáp ứng tạo kháng thể, vì các lympho bào B bị tấn công bởi HIV
+ suy giảm đáp ứng tạo kháng thể, mặc dù HIV không tấn công lympho bào B
+ suy giảm đáp ứng miễn dịch qua trung gian tế bào, nhưng khả năng đáp ứng tạo kháng thể vẫn bình thường vì HIV không tấn công các lympho bào B
+* B và C đúng
+
+Câu 36. Kháng thể IgA tiết trong lòng ống tiêu hoá thường tham gia vào các hiện tượng (hoặc hiệu quả) gì trong số các hiện tượng (hoặc hiệu quả) dưới đây :
+ trung hoà ngoại độc tố vi khuẩn
+* A và D đúng
+ làm tan tế bào vi khuẩn
+ ngăn cản sự bám của vi khuẩn, virut vào niêm mạc ống tiêu hoá
+
+Câu 37. Một phân tử kháng thể IgA tiết cấu tạo bởi :
+ 4 chuỗi polypeptide 
+ 5 chuỗi polypeptide 
+ 8 chuỗi polypeptide và một mảnh tiết (secretory component)
+* 9 chuỗi polypeptide và một mảnh tiết
+
+Câu 38. Trong một phân tử kháng thể IgA tiết có:
+ 1 phân tử IgA đơn phân
+* 2 phân tử IgA đơn phân
+ 4 phân tử IgA đơn phân
+ 5 phân tử IgA đơn phân
+
+Câu 39. Lớp kháng thể nào có trọng lượng phân tử lớn nhất:
+ IgG
+* IgM
+ IgA
+ IgE
+
+Câu 40. Lớp kháng thể nào có nồng độ trong huyết thanh cao nhất:
+* IgG
+ IgM
+ IgA
+ IgE
+
+Câu 41. Trong huyết thanh thai nhi có thể có mặt :
+ kháng thể lớp IgM, từ cơ thể mẹ chuyển sang 
+ kháng thể lớp IgE, từ cơ thể mẹ chuyển sang 
+ kháng thể lớp IgM, do thai nhi tự tổng hợp
+ kháng thể lớp IgG, từ cơ thể mẹ chuyển sang
+
+Câu 42. Kháng thể lớp nào có khả năng gây hiện tượng dị ứng (quá mẫn tức thì):
+ IgM
+ IgA
+* IgE
+ IgM và IgE
+
+Câu 43. Mục đích của tiêm hoặc cho uống vacxin là :
+ kích thích cơ thể sinh đáp ứng miễn dịch đặc hiệu chống mầm bệnh
+ kích thích cơ thể sinh đáp ứng miễn dịch không đặc hiệu chống mầm bệnh 
+* A và D đúng
+ hình thành các tế bào trí nhớ miễn dịch đối với mầm bệnh 
+
+Câu 44. Đáp ứng miễn dịch tế bào kiểu quá mẫn muộn (delayed-type hypersensitivity) có sự tham gia của các tế bào nào :
+ lympho bào T gây quá mẫn muộn
+ lympho bào B
+ tế bào làm nhiệm vụ thực bào
+* B sai
+
+Câu 45. Đáp ứng miễn dịch tế bào kiểu gây độc tế bào (cytotoxicity) có sự tham gia của các tế bào nào :
+ lympho bào B 
+* lympho bào T gây độc tế bào
+ tế bào làm nhiệm vụ thực bào
+ tế bào trình diện kháng nguyên
+
+Câu 46. Lymphokin là tên gọi chung của nhiều yếu tố hoà tan, có đặc điểm:
+ do lympho bào B sản xuất ra khi phản ứng với kháng nguyên 
+ bản chất là kháng thể
+* có khả năng ảnh hưởng lên các tế bào miễn dịch
+ có khả năng kết hợp kháng nguyên dẫn đến loại bỏ kháng nguyên
+
+Câu 47. Trong một đáp ứng miễn dịch qua trung gian tế bào kiểu quá mẫn muộn (delayed-type hypersensitivity):
+ không có sự tham gia trực tiếp của kháng thể đặc hiệu với kháng nguyên
+ nhất thiết phải có sự tham gia của kháng thể đặc hiệu với kháng nguyên
+ có thể không cần quá trình sản xuất các lymphokin
+ nhất thiết phải có sự sản xuất các lymphokin
+
+Câu 48. Trong các yếu tố sau, yếu tố nào là lymphokin:
+ immunoglobulin
+ histamin
+* interleukin-2
+ serotonin
+
+Câu 49. Lymphokin :
+ do một số lympho bào T sản xuất ra khi phản ứng với kháng nguyên
+ có tính đặc hiệu với kháng nguyên 
+* lựa chọn A và D
+ có khả năng tác động lên tế bào đại thực bào, làm tăng khả năng thực bào
+
+Câu 50. Trong một đáp ứng miễn dịch qua trung gian tế bào kiểu gây độc tế bào do lympho bào TC thực hiện đối với một tế bào ung thư hoá của cơ thể :
+P không có sự tham gia của kháng thể chống kháng nguyên ung thư
+ nhất thiết phải có sự tham gia của kháng thể chống kháng nguyên ung thư
+ không có sự tham gia của tế bào đại thực bào
+ có sự tham gia của tế bào đại thực bào; tế bào đại thực bào có khả năng gây độc dẫn đến tiêu diệt tế bào ung thư
+
+Câu 51. Hình thức đáp ứng miễn dịch qua trung gian tế bào kiểu gây độc tế bào có vai trò bảo vệ cơ thể trong trường hợp nào dưới đây :
+ nhiễm vi khuẩn lao
+ nhiễm vi khuẩn tả
+* nhiễm virut
+ nhiễm nấm
+
+Câu 52. Hình thức đáp ứng miễn dịch qua trung gian tế bào kiểu quá mẫn muộn có vai trò bảo vệ cơ thể trong trường hợp nào dưới đây :
+ nhiễm vi khuẩn lỵ
+ nhiễm vi khuẩn lao
+* B và D đúng  
+ nhiễm nấm
+ 
+Câu 53. Test tuberculin được tiến hành nhằm mục đích :
+ chẩn đoán xác định một bệnh nhân có nhiễm vi khuẩn lao hay không
+ chẩn đoán xác định một bệnh nhân có mắc bệnh lao hay không 
+ xác định xem bệnh nhân có kháng thể chống vi khuẩn lao trong huyết thanh hay không
+* xác định khả năng đáp ứng miễn dịch tế bào và tình trạng mẫn cảm với vi khuẩn lao của bệnh nhân
+
+Câu 54. Kết quả test tuberculin dương tính chứng tỏ rằng :
+ bệnh nhân đã hoặc đang bị mắc bệnh lao
+ bệnh nhân đang mang vi khuẩn lao
+* bệnh nhân đã mẫn cảm với vi khuẩn lao
+ bệnh nhân chưa sử dụng thuốc chống lao bao giờ
+
+Câu 55. Kháng nguyên PPD được sử dụng trong test tuberculin có bản chất là:
+ vi khuẩn lao sống
+ vi khuẩn lao sống đã làm giảm độc lực
+ vi khuẩn lao chết 
+* protein có nguồn gốc từ vi khuẩn lao
+
+Câu 56. Cơ chế gây độc tế bào đích trong đáp ứng miễn dịch tế bào kiểu gây độc tế bào:
+ không có sự tham gia của bổ thể, vì bổ thể là một cơ chế miễn dịch không đặc hiệu, trong khi đó đáp ứng miễn dịch tế bào kiểu gây độc tế bào là một cơ chế miễn dịch đặc hiệu
+* không có sự tham gia của bổ thể, vì không có sự tham gia của kháng thể đặc hiệu, do đó không có hiện tượng cố định bổ thể
+ có sự tham gia của bổ thể, trong đó bổ thể có tác dụng gây độc tế bào đích 
+ có sự tham gia của bổ thể, trong đó bổ thể không có tác dụng gây độc tế bào đích, mà tác dụng này do lympho bào Tc thực hiện
+
+Câu 57. Khi tiến hành test tuberculin, người ta:
+ đưa kháng nguyên PPD vào cơ thể bằng đường tiêm dưới da
+ đưa kháng nguyên PPD vào cơ thể bằng đường tiêm tĩnh mạch
+* đưa kháng nguyên PPD vào cơ thể bằng đường tiêm trong da
+ đưa kháng nguyên PPD vào cơ thể bằng đường uống 
+
+Câu 58. Trong một đáp ứng miễn dịch tế bào kiểu gây độc tế bào:
+ không cần có quá trình nhận diện quyết kháng nguyên trên bề mặt tế bào đích; lympho bào Tc có khả năng gây độc trực tiếp tế bào đích
+ lympho bào Tc nhận diện quyết định kháng nguyên trên bề mặt tế bào đích trong sự giới hạn của kháng nguyên hoà hợp tổ chức lớp I
+* B và D đúng
+ lympho bào Tc nhất thiết phải được hoạt hoá bởi lymphokin mới có khả năng gây độc tế bào đích
+
+Câu 59. Quá trình nhận diện quyết định kháng nguyên của lympho bào T trong đáp ứng miễn dịch tế bào kiểu quá mẫn muộn:
+ mang tính đặc hiệu kháng nguyên, nhưng không mang tính đặc hiệu loài 
+ mang tính đặc hiệu loài, nhưng không mang tính đặc hiệu kháng nguyên
+* vừa có tính đặc hiệu loài, vừa có tính đặc hiệu kháng nguyên
+ cần có sự tham gia của kháng thể 
+
+Câu 60. Trong thí nghiệm của Landsteiner - Chase và Lurie về đáp ứng miễn dịch trong bệnh lao :
+ kháng thể chống vi khuẩn lao không có khả năng bảo vệ cơ thể thoát khỏi bệnh lao nhưng có tác dụng ức chế vi khuẩn lao làm cho vi khuẩn lao không nhân lên được
+ kháng thể chống vi khuẩn lao chỉ có tác dụng bảo vệ cơ thể thoát khỏi bệnh lao khi có sự hợp tác của các tế bào đại thực bào
+ tất cả các tế bào lách, hạch ở chuột đã mẫn cảm với vi khuẩn lao có khả năng tiêu diệt trực tiếp vi khuẩn lao, nhờ đó có thể bảo vệ cơ thể thoát khỏi bệnh lao
+* tế bào đại thực bào tăng khả năng ức chế và diệt vi khuẩn lao khi có sự hỗ trợ của các lympho bào T
+
+Câu 61. Trong đáp ứng miễn dịch qua trung gian tế bào kiểu quá mẫn muộn:
+* B và D đúng
+ hoạt động của tế bào thực bào là không đặc hiệu với kháng nguyên, vì hiện tượng thực bào là một cơ chế miễn dịch không đặc hiệu 
+ sự sản xuất lymphokin có tính đặc hiệu kháng nguyên, vì vậy hình thức đáp ứng miễn dịch này được xếp vào đáp ứng miễn dịch đặc hiệu
+ sự nhận diện kháng nguyên có tính đặc hiệu, vì vậy hình thức đáp ứng miễn dịch này được xếp vào đáp ứng miễn dịch đặc hiệu
+
+Câu 62. Bản chất của test tuberculin là :
+ phát hiện sự sản xuất kháng thể kháng vi khuẩn lao ở cơ thể túc chủ (cơ thể được làm test) khi thử thách với kháng nguyên PPD
+* phát hiện sự sản xuất lymphokin ở cơ thể túc chủ khi thử thách với kháng nguyên PPD
+ phát hiện sự kết hợp của kháng nguyên PPD với kháng thể kháng vi khuẩn lao được hình thành từ trước trong cơ thể túc chủ
+* cả 4 lựa chọn trên đều sai
+
+Câu 63. Kết quả test tuberculin âm tính chứng tỏ:
+ bệnh nhân chắc chắn không bị nhiễm lao
+ bệnh nhân chắc chắn không bị mắc bệnh lao
+ bệnh nhân chưa bao giờ bị nhiễm lao
+* cả 4 lựa chọn trên đều sai
+
+Câu 64. Quá trình nhận diện quyết định kháng nguyên của lympho bào T trong đáp ứng miễn dịch tế bào kiểu gây độc tế bào:
+ mang tính đặc hiệu kháng nguyên, nhưng không mang tính đặc hiệu loài 
+ mang tính đặc hiệu loài, nhưng không mang tính đặc hiệu kháng nguyên
+* vừa có tính đặc hiệu loài, vừa có tính đặc hiệu kháng nguyên
+ cần có sự tham gia của kháng thể 
+
+Câu 65. Đáp ứng miễn dịch tế bào kiểu quá mẫn muộn thể hiện tính đặc hiệu ở chỗ:
+* quá trình nhận diện quyết định kháng nguyên mang tính đặc hiệu kháng nguyên và đặc hiệu loài
+ sự sản xuất lymphokin mang tính đặc hiệu với kháng nguyên
+ hình thức đáp ứng này phải có sự kết hợp của kháng thể đặc hiệu với kháng nguyên tương ứng
+ tác động của lymphokin lên các tế bào thực hiện mang tính đặc hiệu loài
+
+Câu 66. Đáp ứng miễn dịch tế bào kiểu gây độc tế bào thể hiện tính đặc hiệu ở chỗ :
+ quá trình nhận diện quyết định kháng nguyên mang tính đặc hiệu kháng nguyên
+ hình thức đáp ứng này phải có sự kết hợp của kháng thể đặc hiệu với kháng nguyên tương ứng
+ quá trình nhận diện quyết định kháng nguyên mang tính đặc hiệu loài
+* A và C đúng
+
+Câu 67. Trong thí nghiệm của Landsteiner - Chase về đáp ứng miễn dịch trong bệnh lao, việc truyền các tế bào lách, hạch lấy từ chuột đã mẫn cảm với vi khuẩn lao sang chuột chưa mẫn cảm tạo ra trạng thái miễn dịch gì ở chuột chưa mẫn cảm:
+ miễn dịch thụ động
+ miễn dịch chủ động
+* miễn dịch vay mượn
+ miễn dịch tự nhiên
+
+Câu 68. Lympho bào T tham gia đáp ứng miễn dịch tế bào kiểu quá mẫn muộn có các dấu ấn bề mặt nào:
+ CD3
+ CD4
+ CD8
+* A và B đúng
+
+Câu 69. Lympho bào T tham gia đáp ứng miễn dịch tế bào kiểu gây độc tế bào có các dấu ấn bề mặt nào :
+ CD3
+ CD4
+* CD8
+ CD19
+
+Câu 70. Biểu hiện “quá mẫn” trong một đáp ứng miễn dịch qua trung gian tế bào kiểu quá mẫn muộn:
+ là kết quả của phản ứng giữa kháng thể với kháng nguyên
+* là kết quả của một phản ứng viêm do lymphokin kích thích gây ra
+ là kết quả của tương tác trực tiếp giữa lymphokin với kháng nguyên
+ là do kháng thể IgE gây ra
+
+Câu 71. Trong một đáp ứng miễn dịch tế bào kiểu gây độc tế bào:
+ nhất thiết phải có sự tham gia của lymphokin với vai trò hoạt hoá lympho bào Tc
+ có thể không có sự tham gia của lymphokin; các lympho bào Tc tự chúng có khả năng gây độc tế bào đích
+ các tế bào đích là các tế bào của bản thân cơ thể
+* A và C đúng
+
+Câu 72. Những tế bào nào trong các tế bào dưới đây tham gia trực tiếp trong các cơ chế đáp ứng miễn dịch không đặc hiệu:
+ lympho bào T
+ lympho bào B
+ bạch cầu đa nhân trung tính
+* C và E đúng
+
+Câu 73. Bổ thể có khả năng:
+ kết hợp đặc hiệu với kháng nguyên
+* gắn với kháng thể khi kháng thể đã kết hợp với kháng nguyên 
+ gắn với kháng thể ngay cả khi kháng thể ở dạng tự do lưu hành trong huyết thanh
+ gắn với kháng thể và làm tăng khả năng kết hợp kháng nguyên của kháng thể đó
+
+Câu 74. Những tế bào nào sau đây sản xuất bổ thể :
+ lympho bào B
+ đại thực bào
+ tế bào mast
+* tế bào gan
+
+Câu 75. Bổ thể có khả năng làm tan tế bào đích (là tế bào mà bổ thể gắn lên) :
+ song nhất thiết phải có sự tham gia của kháng thể chống tế bào đích
+* ngay cả khi không có sự tham gia của kháng thể chống tế bào đích
+ song nhất thiết phải có sự hỗ trợ của tế bào làm nhiệm vụ thực bào
+ song nhất thiết phải có sự hợp tác của các lympho bào T
+
+Câu 76. Bổ thể có khả năng :
+ gắn lên bề mặt tế bào đại thực bào và hoạt hoá tế bào đại thực bào
+ gắn lên bề mặt tế bào đại thực bào và ức chế tế bào đại thực bào
+* gắn lên bề mặt tế bào đại thực bào, qua đó làm tăng khả năng thâu tóm vật lạ của tế bào đại thực bào 
+ gắn lên bề mặt tế bào đại thực bào, do đó làm giảm khả năng thâu tóm vật lạ của tế bào đại thực bào
+
+Câu 77. Những tế bào nào trong các tế bào sau đây có khả năng thực bào :
+ tế bào đại thực bào
+ lympho bào T
+ bạch cầu đa nhân trung tính
+* A và C đúng
+
+Câu 78. Hoạt tính của bổ thể có đặc điểm :
+ không có tính đặc hiệu loài nhưng có tính đặc hiệu với kháng nguyên 
+ không có tính đặc hiệu với kháng nguyên nhưng có tính đặc hiệu loài 
+* không có tính đặc hiệu với kháng nguyên cũng như không có tính đặc hiệu loài
+ mang tính đặc hiệu với kháng nguyên và đặc hiệu loài
+
+Câu 79. Sự opsonin hoá trong hiện tượng thực bào :
+ làm tăng khả năng giết của tế bào thực bào
+* làm tăng khả năng thâu tóm vật lạ của tế bào thực bào
+ làm tăng khả năng tiêu vật lạ của tế bào thực bào
+ lựa chọn A và B
+
+Câu 80. Trong các ống nghiệm sau đây, ống nghiệm nào có thể xảy ra hiện tượng tan tế bào hồng cầu:
+ ống nghiệm có hồng cầu cừu, huyết thanh người bình thường và huyết thanh thỏ bình thường
+ ống nghiệm có hồng cầu cừu, huyết thanh thỏ mẫn cảm với hồng cầu cừu 
+ ống nghiệm có hồng cầu cừu, huyết thanh người bình thường và huyết thanh thỏ mẫn cảm với hồng cầu cừu
+* C và E đúng
+
+Câu 81. Tiêm hoặc cho uống vacxin nhắc lại là nhằm mục đích :
+ dự phòng trường hợp lần tiêm hoặc cho uống vacxin trước đó thất bại
+ gây miễn dịch lại, vì việc gây miễn dịch trong lần tiêm hoặc cho uống vacxin trước đó không còn hiệu lực
+* tạo ra đáp ứng miễn dịch lần 2
+ lựa chọn A và C
+
+Câu 82. Hiện tượng thực bào :
+ là một cơ chế miễn dịch không đặc hiệu, song nhất thiết phải có sự hợp tác với các cơ chế miễn dịch đặc hiệu thì mới có thể thực hiện được
+ là một cơ chế miễn dịch không đặc hiệu, song trong trường hợp vật lạ được bao bọc bởi kháng thể thì hiện tượng thực bào lại mang tính đặc hiệu với kháng nguyên 
+ là một cơ chế miễn dịch không đặc hiệu, hoạt động mang tính cạnh tranh với các cơ chế miễn dịch đặc hiệu
+* là một cơ chế miễn dịch không đặc hiệu, hoạt động mang tính hợp tác với các cơ chế miễn dịch đặc hiệu
+
+Câu 83. Các tế bào làm nhiệm vụ thực bào :
+ không tham gia trực tiếp vào đáp ứng miễn dịch đặc hiệu, vì hiện tượng thực bào là một cơ chế miễn dịch không đặc hiệu
+* có thể tham gia trực tiếp vào đáp ứng miễn dịch tế bào đặc hiệu kiểu quá mẫn muộn
+ có thể tham gia trực tiếp vào đáp ứng miễn dịch tế bào đặc hiệu kiểu gây độc tế bào
+ lựa chọn B và C
+
+Câu 84. Trong quá trình hoạt hoá bổ thể :
+ nhất thiết phải có sự kết hợp của kháng nguyên với kháng thể đặc hiệu
+* có thể không cần đến sự kết hợp của kháng nguyên với kháng thể đặc hiệu 
+ nhất thiết phải có sự tham gia của kháng thể
+ tất cả các thành phần bổ thể đều được hoạt hoá 
+
+Câu 85. Sự hoạt hoá bổ thể có thể đưa đến các tác dụng hoặc hiệu quả gì :
+ tan tế bào đích
+ opsonin hoá, vì một số thành phần bổ thể hoạt hoá có khả năng kích thích trực tiếp tế bào thực bào, làm tăng cường hoạt động thực bào
+ opsonin hoá, vì một số thành phần bổ thể hoạt hoá có khả năng gắn lên bề mặt tế bào thực bào, qua đó làm tăng khả năng thâu tóm vật lạ của các tế bào này
+* B sai
+
+Câu 86. Các cơ chế đáp ứng miễn dịch không đặc hiệu và đặc hiệu:
+ hoạt động hoàn toàn độc lập với nhau 
+ hoạt động mang tính cạnh tranh với nhau, trong đó các cơ chế đáp ứng miễn dịch đặc hiệu khi đã hình thành sẽ ức chế các cơ chế không đặc hiệu
+* hoạt động mang tính hợp tác với nhau
+ hoạt động theo trật tự nhất định, trong đó các cơ chế không đặc hiệu phát huy tác dụng trước, sau đó mất hoàn toàn hiệu lực, nhường chỗ cho các cơ chế đặc hiệu
+
+Câu 87. Trong đáp ứng miễn dịch không đặc hiệu :
+ không có sự tham gia của kháng thể, vì kháng thể là một yếu tố của đáp ứng miễn dịch thể dịch đặc hiệu (với khả năng kết hợp đặc hiệu với kháng nguyên tương ứng)
+ có thể có sự tham gia của kháng thể, nhưng không có sự kết hợp đặc hiệu của kháng thể với kháng nguyên tương ứng
+* có thể có sự tham gia của kháng thể, trong đó nhất thiết phải có sự kết hợp đặc hiệu của kháng thể với kháng nguyên tương ứng
+ có sự tham gia của kháng thể với vai trò là yếu tố hoạt hoá trực tiếp một số cơ chế đáp ứng không đặc hiệu như hiện tượng thực bào, sản xuất bổ thể, sản xuất interferon
+
+Câu 88. Tế bào NK :
+ là một yếu tố của đáp ứng miễn dịch không đặc hiệu, vì tế bào này có thể “tấn công” nhiều loại tế bào đích với các kháng nguyên bề mặt khác nhau 
+ là một yếu tố của đáp ứng miễn dịch không đặc hiệu, vì hoạt động của tế bào này không có sự tham gia của các cơ chế đáp ứng miễn dịch đặc hiệu
+* A và D đúng
+* là một yếu tố của đáp ứng miễn dịch không đặc hiệu, nhưng hoạt động chức năng của tế bào này có thể có sự tham gia của kháng thể, một yếu tố miễn dịch đặc hiệu
+
+Câu 89. Vai trò của bổ thể trong đáp ứng miễn dịch thể hiện ở chỗ:
+ bổ thể có khả năng gây tan tế bào đích (là tế bào mà bổ thể gắn lên)
+ bổ thể có khả năng hoạt hoá một số tế bào có thẩm quyền miễn dịch để những tế bào này tham gia vào đáp ứng miễn dịch
+ bổ thể có thể làm tăng khả năng thâu tóm vật lạ của các tế bào đại thực bào, vì bổ thể có thể gắn lên bề mặt tế bào đại thực bào
+* B sai
+
+Câu 90. Bổ thể :
+ là một lớp kháng thể đặc biệt với chức năng sinh học tương tự như kháng thể nhưng hoạt động một cách không đặc hiệu với kháng nguyên 
+ là tên gọi chung của một họ protein huyết thanh, bản chất là globulin nhưng không phải là kháng thể
+ chủ yếu do các tế bào có thẩm quyền miễn dịch sản xuất ra
+* có hoạt tính enzyme, nhưng lưu hành trong máu dưới dạng tiền enzyme (dạng chưa có hoạt tính enzyme)
+
+Câu 91. Tế bào NK :
+* C và E đúng
+ là một loại tế bào làm nhiệm vụ thực bào 
+ có khả năng tiêu diệt một số loại tế bào ung thư một cách không đặc hiệu
+ có khả năng gây độc trực tiếp một số tế bào vi khuẩn
+
+Câu 92. Interferon :
+ có bản chất là globulin huyết thanh nhưng không phải là kháng thể
+ có khả năng hợp tác với kháng thể trong cơ chế gây tan tế bào đích
+* có hoạt tính chống virut không đặc hiệu
+ có khả năng tiêu diệt các tế bào ung thư một cách không đặc hiệu
+
+Câu 93. Đáp ứng tạo kháng thể và hiện tượng thực bào :
+ hoạt động cạnh tranh với nhau trên cùng một đối tượng, trong đó hiện tượng nào xuất hiện trước có tác dụng ngăn cản hiện tượng kia
+* hoạt động một cách hợp tác với nhau 
+ hoạt động một cách độc lập với nhau
+ chỉ hoạt động một cách hợp tác với nhau khi có sự hỗ trợ của lympho bào T 
+
+Câu 94. Sự hợp tác giữa lympho bào B và lympho bào T trong đáp ứng miễn dịch :
+ thể hiện ở chỗ các kháng thể sau khi sản xuất ra có khả năng hoạt hoá một số lympho bào T để các tế bào này tham gia vào đáp ứng miễn dịch 
+* thể hiện ở chỗ một số lympho bào T có khả năng hỗ trợ lympho bào B biệt hoá thành tế bào sản xuất kháng thể
+ nhất thiết phải có sự tham gia của các tế bào đại thực bào
+ nhất thiết phải thông qua tác động trung gian của bổ thể
+
+Câu 95. Sự hợp tác giữa tế bào đại thực bào và lympho bào T :
+ nhất thiết phải có trong quá trình hình thành đáp ứng tạo kháng thể chống một kháng nguyên nào đó
+ chỉ diễn ra trong trường hợp tế bào đại thực bào là tế bào trình diện kháng nguyên
+ diễn ra theo một chiều, trong đó đại thực bào có khả năng thúc đẩy hoạt động chức năng của lympho bào T
+* có thể diễn ra theo hai chiều, trong đó hoạt động chức năng của loại tế bào này có khả năng thúc đẩy hoạt động chức năng của loại tế bào kia và ngược lại
+
+Câu 96. Trong một đáp ứng miễn dịch đặc hiệu :
+ không thể có sự tham gia của hiện tượng thực bào, vì hiện tượng thực bào là một hình thức đáp ứng miễn dịch không đặc hiệu
+ không thể có sự tham gia của bổ thể, vì bổ thể là một yếu tố đáp ứng miễn dịch không đặc hiệu
+ chỉ có thể có sự tham gia của hiện tượng thực bào khi tế bào thực bào là tế bào trình diện kháng nguyên
+* chỉ có thể có sự tham gia của bổ thể khi đã có sự kết hợp của kháng thể đặc hiệu với kháng nguyên
+
+Câu 97. Lympho bào T hỗ trợ có các dấu ấn bề mặt nào :
+ CD3
+ CD4
+* E sai
+ CD2
+
+Câu 98. Dấu ấn CD4 trên bề mặt lympho bào T người có chức năng :
+ là thụ thể giành cho kháng nguyên
+ là thụ thể giành cho Fc của phân tử kháng thể 
+ là thụ thể giành cho hồng cầu cừu 
+* tương tác với kháng nguyên hoà hợp tổ chức lớp II trong quá trình nhận diện kháng nguyên 
+
+Câu 99. Dấu ấn CD8 trên bề mặt lympho bào T người có chức năng :
+ là thụ thể giành cho kháng nguyên
+ là thụ thể giành cho Fc của phân tử kháng thể 
+ là thụ thể giành cho hồng cầu cừu 
+* tương tác với kháng nguyên hoà hợp tổ chức lớp I trong quá trình nhận diện kháng nguyên 
+
+Câu 100. Kháng nguyên có thể kích thích lympho bào B biệt hoá thành tế bào plasma:
+* B và D đúng
+ ngay cả khi không có sự hỗ trợ của lympho bào TH
+ chỉ khi kháng nguyên đã được xử lý bởi một tế bào trình diện kháng nguyên khác
+ ngay cả khi kháng nguyên chưa được xử lý bởi tế bào trình diện kháng nguyên
+
+Câu 101. Kết quả test tuberculin âm tính cho biết rằng :
+* C và D đúng
+ bệnh nhân đang sử dụng thuốc chống lao có hiệu quả
+ bệnh nhân có thể chưa được mẫn cảm với vi khuẩn lao
+ bệnh nhân có thể mắc chứng suy giảm đáp ứng miễn dịch tế bào
+
+Câu 102. Trạng thái miễn dịch ở trẻ sơ sinh :
+ chỉ là miễn dịch thụ động, có được do kháng thể từ người mẹ chuyển sang cơ thể thai nhi trong thời kỳ bào thai
+* có thể bao gồm cả miễn dịch chủ động và thụ động
+ là miễn dịch vay mượn, sau đó dần dần được thay thế bằng miễn dịch chủ động
+ bao gồm cả 3 trạng thái miễn dịch chủ động, thụ động và vay mượn
+
+Câu 103. Cơ thể bào thai có thể có kháng thể gì, nguồn gốc của kháng thể đó là :
+*  C sai
+ IgG, do cơ thể bào thai tự tổng hợp
+ IgM, từ cơ thể mẹ chuyển sang
+ IgM, do cơ thể bào thai tự tổng hợp
+
+Câu 104. Trong quá trình gây miễn dịch, liều lượng kháng nguyên và cách gây miễn dịch ảnh hưởng như thế nào đến tính sinh miễn dịch của kháng nguyên :
+ liều kháng nguyên càng cao, tính sinh miễn dịch càng mạnh
+ liều kháng nguyên thấp nhưng được đưa vào cơ thể túc chủ hàng ngày thì tính sinh miễn dịch cũng mạnh
+ liều kháng nguyên càng cao, số lần đưa kháng nguyên càng lớn thì tính sinh miễn dịch càng mạnh
+* cả 4 lựa chọn trên đều sai 
+
+Câu 105. Một kháng nguyên protein dùng để gây miễn dịch cho một động vật thí nghiệm được coi là có tính “lạ” cao khi nào :
+ kháng nguyên đó được sử dụng lần đầu tiên trên con vật thí nghiệm này
+ kháng nguyên đó được sử dụng lần đầu tiên trên loài động vật thí nghiệm này
+ kháng nguyên đó có kích thước phân tử lớn 
+* kháng nguyên đó có nguồn gốc từ một động vật khác có sự cách biệt xa về mặt di truyền với động vật thí nghiệm
+
+Câu 106. Lympho bào B có thể nhận diện kháng nguyên như thế nào :
+ nhận diện toàn bộ phân tử kháng nguyên (chưa được “xử lý” bởi tế bào nào khác của cơ thể) ngay cả khi lympho bào B lưu hành trong máu ngoại vi
+ nhận diện kháng nguyên dưới dạng các quyết định kháng nguyên trên bề mặt tế bào trình diện kháng nguyên
+* nhận diện toàn bộ phân tử kháng nguyên, quá trình này diễn ra tại các cơ quan lympho ngoại vi (hạch lympho, lách)
+ nhận diện kháng nguyên với sự hỗ trợ của lympho bào TH (T hỗ trợ)
+
+Câu 107. Sử dụng SAT (huyết thanh kháng uốn ván) dự phòng bệnh uốn ván tạo ra trạng thái miễn dịch gì :
+ chủ động
+ thụ động
+ thu được
+* B và C đúng
+
+Câu 108. Trạng thái miễn dịch được tạo ra ở một cơ thể sau khi tiêm (hoặc cho uống) vacxin là trạng thái miễn dịch gì :
+ chủ động
+ thụ động
+ thu được
+* A và C
+
+Câu 109. Có thể đánh giá khả năng đáp ứng miễn dịch tế bào ở một cá thể bằng những phương pháp hoặc kỹ thuật nào dưới đây : 
+ định lượng kháng thể
+* C và D đúng
+ kỹ thuật ức chế di tản bạch cầu
+ test tuberculin
+
+Câu 110. Kháng nguyên phù hợp tổ chức có ảnh hưởng trực tiếp trong những quá trình hoặc hiện tượng nào dưới đây :
+* B và D sai
+ quá trình nhận diện kháng nguyên của lympho bào B
+ quá trình nhận diện kháng nguyên của lympho bào T
+ tất cả các quá trình trên
+
+Câu 111. Kháng thể thuộc lớp nào có khả năng cố định bổ thể cao nhất :
+ IgG
+* IgM
+ IgA
+ IgE
+
+Câu 112. Trong quá trình phát triển cá thể, lớp kháng thể nào được tổng hợp sớm nhất :
+ IgG
+* IgM
+ IgA
+ IgE
+
+Câu 113. Những tế bào nào dưới đây có thể tham gia trực tiếp vào hiện tượng dị ứng do IgE :
+ tế bào plasma
+ tế bào mast
+ bạch cầu ái kiềm
+* B và C đúng
+
+Câu 114. Kháng thể IgE :
+* không thể gây ra hiện tượng dị ứng khi IgE ở dạng tự do lưu hành trong máu 
+ có thể gây ra hiện tượng dị ứng khi IgE ở dạng tự do lưu hành trong máu, với điều kiện nồng độ IgE khi đó cao hơn nhiều so với mức bình thường
+ là lớp kháng thể có hại đối với cơ thể, vì chúng tham gia vào hiện tượng dị ứng, một hiện tượng liên quan đến nhiều quá trình bệnh lý
+ không có vai trò rõ rệt trong các cơ chế bảo vệ cơ thể
+
+Câu 115. Trong một đáp ứng tạo kháng thể, kháng thể thuộc lớp nào được tổng hợp sớm nhất :
+ IgG
+* IgM
+ IgA
+ IgE
+
+Câu 116. Trong phản ứng kết tủa trên gel thạch Mancini :
+ kháng nguyên và kháng thể khuếch tán (di chuyển) đồng thời trên gel thạch và theo hai hướng ngược nhau
+ kháng nguyên và kháng thể khuếch tán đồng thời trên gel thạch và theo tất cả mọi hướng
+ chỉ có kháng nguyên khuếch tán trên gel thạch; kháng thể không khuếch tán
+* C và E đúng
+
+Câu 117. Trong phản ứng kết tủa trên gel thạch Ouchterlony :
+ kháng nguyên và kháng thể khuếch tán (di chuyển) đồng thời trên gel thạch và theo hướng ngược chiều nhau
+* kháng nguyên và kháng thể khuếch tán đồng thời trên gel thạch và theo tất cả mọi hướng
+ chỉ có kháng nguyên khuếch tán trên gel thạch; kháng thể không khuếch tán
+ chỉ có kháng thể khuếch tán trên gel thạch; kháng nguyên không khuếch tán
+
+Câu 118. Trong những hiện tượng hoặc quá trình dưới đây, hiện tượng hoặc quá trình nào có thể có sự tham gia trực tiếp của kháng thể :
+ hiện tượng thực bào
+ gây độc tế bào do lympho bào Tc thực hiện
+ hiệu quả ADCC
+* B sai
+
+Câu 119. Trong những quá trình sau đây, quá trình nào có thể chịu ảnh hưởng trực tiếp của sự hợp tác giữa lympho bào B và lympho bào T :
+* sự biệt hóa của lympho bào B thành tế bào plasma
+ hiện tượng quá mẫn muộn
+ gây độc tế bào do lympho bào Tc thực hiện
+ gây độc tế bào bởi tế bào phụ thuộc kháng thể
+
+Câu 120. Trong những quá trình sau đây, quá trình nào có thể chịu ảnh hưởng trực tiếp của sự hợp tác giữa lympho bào và đại thực bào :
+* C và D đúng
+ sự biệt hóa của lympho bào B thành tế bào plasma
+ quá trình thực bào
+ quá trình nhận diện kháng nguyên của lympho bào 
+
+Câu 121. Lympho bào T gây độc:
+ mang kháng nguyên CD3
+* D sai 
+ mang kháng nguyên CD8
+có khả năng gây độc tế bào đích thông qua hiệu quả ADCC (gây độc tế bào bởi tế bào phụ thuộc kháng thể)
+
+Câu 122. Sự nhận diện quyết định kháng nguyên trên bề mặt tế bào trình diện kháng nguyên của lympho bào T :
+* B và D đúng I
+ chịu sự giới hạn của kháng nguyên phù hợp tổ chức lớp II
+ thông qua vai trò trung gian của kháng thể đặc hiệu với quyết định kháng nguyên
+ mang tính đặc hiệu kháng nguyên
+
+Câu 123. Đặc điểm của tế bào trình diện kháng nguyên :
+* C và D đúng
+ nhất thiết phải có thụ thể giành cho kháng nguyên trên bề mặt
+ có kháng nguyên phù hợp tổ chức lớp II trên bề mặt
+ có kháng nguyên phù hợp tổ chức lớp I trên bề mặt
+
+Câu 124. Sự nhận diện kháng nguyên của lympho bào T diễn ra như sau:
+ diễn ra trực tiếp, ngay trên phân tử kháng nguyên
+ diễn ra trên bề mặt tế bào trình diện kháng nguyên; lympho bào T nhận diện toàn bộ phân tử kháng nguyên bị “gắn” trên bề mặt tế bào trình diện kháng nguyên
+ tế bào trình diện kháng nguyên thâu tóm, nuốt và “xử lý” kháng nguyên thành các quyết định kháng nguyên, sau đó “đào thải” các quyết định kháng nguyên này ra khỏi tế bào trình diện kháng nguyên cho lympho bào T đến nhận diện
+* lympho bào T nhận diện các quyết định kháng nguyên khi chúng nằm trên bề mặt của một tế bào
+
+Câu 125. Lympho bào B sau khi tương tác với kháng nguyên và có sự hợp tác của lympho bào T hỗ trợ sẽ:
+ hoạt hoá, tiếp đó sẽ sản xuất kháng thể để phản ứng với kháng nguyên 
+ hoạt hoá, biệt hoá thành tế bào plasma (tế bào tiết kháng thể); tiếp đó các tế bào plasma phân chia và tạo thành một tập hợp tế bào plasma giống nhau để sản xuất kháng thể 
+* hoạt hoá, phân chia và tạo thành một tập hợp lympho bào B giống nhau; tiếp đó một số lympho bào B này biệt hoá thành tế bào plasma để sản xuất kháng thể, số còn lại thực hiện chức năng khác 
+ hoạt hoá, phân chia và tạo thành một tập hợp lympho bào B giống nhau; tiếp đó tất cả các lympho bào B này biệt hoá thành tế bào plasma để sản xuất kháng thể
+
+Câu 126. Hoạt động của kháng thể opsonin hoá :
+* là đặc hiệu, vì bản chất của hoạt động này là sự kết hợp kháng nguyên - kháng thể 
+ là không đặc hiệu, vì kháng thể opsonin hoá có thể gắn lên nhiều loại tế bào thực bào khác nhau
+ là không đặc hiệu, vì kháng thể opsonin hoá có thể kết hợp với nhiều vật lạ khác nhau
+ là không đặc hiệu, vì hoạt động này tham gia vào hiện tượng thực bào, một cơ chế đáp ứng miễn dịch không đặc hiệu
+
+Câu 127. Sự opsonin hoá trong hiện tượng thực bào:
+ làm giảm khả năng thâu tóm vật lạ của tế bào thực bào, vì kháng thể opsonin hoá đã kết hợp với vật lạ và “bao bọc” kín vật lạ 
+* làm tăng khả năng thâu tóm vật lạ của tế bào thực bào, vì kháng thể opsonin hoá có khả năng gắn lên bề mặt tế bào thực bào
+ làm tăng khả năng di chuyển của tế bào thực bào đến vị trí có vật lạ
+ làm tăng khả năng tiêu vật lạ của tế bào thực bào sau khi đã thâu tóm và nuốt vật lạ
+
+Câu 128. Trạng thái miễn dịch được tạo ra sau tiêm hoặc cho uống vacxin là trạng thái miễn dịch:
+* chủ động
+ thụ động, nhân tạo
+ vay mượn, nhân tạo
+ tự nhiên
+
+Câu 129. Truyền các lympho bào B từ một con vật đã mẫn cảm với một kháng nguyên nào đó cho một con vật khác đồng gien (để tạo ra kháng thể chống kháng nguyên đó ở cơ thể con vật được nhận tế bào) là tạo ra trạng thái miễn dịch gì :
+ thụ động, nhân tạo
+ chủ động, nhân tạo
+* vay mượn
+ tự nhiên 
+
+Câu 130. Hapten :
+ là một loại kháng nguyên đặc biệt, có thể phản ứng với nhiều loại kháng thể khác nhau
+ là một “kháng nguyên không hoàn chỉnh”: hapten có khả năng kích thích cơ thể sinh kháng thể chống hapten, nhưng lại không kết hợp được với kháng thể đó
+ là một “kháng nguyên không hoàn chỉnh”: hapten không có khả năng kích thích cơ thể sinh kháng thể chống hapten
+* C và E đúng
+
+Câu 131. Người nhiễm HIV/AIDS :
+ có sự suy giảm đáp ứng tạo kháng thể nhưng không có sự suy giảm khả năng đáp ứng miễn dịch tế bào
+ có sự suy giảm đáp ứng miễn dịch tế bào nhưng không có sự suy giảm đáp ứng tạo kháng thể
+ có sự suy giảm cả đáp ứng miễn dịch tế bào lẫn đáp ứng tạo kháng thể, nhưng số lượng và chức năng lympho bào B và T vẫn bình thường
+* Tất cả đều sai
+
+Câu 132. Người nhiễm HIV/AIDS :
+ không có sự suy giảm đáp ứng tạo kháng thể, vì HIV không “tấn công” các lympho bào B
+ có sự suy giảm đáp ứng tạo kháng thể, vì HIV “tấn công” trực tiếp và tiêu diệt các tế bào tiết kháng thể (tế bào plasma)
+* có sự suy giảm đáp ứng tạo kháng thể, song số lượng và chức năng của lympho bào B vẫn bình thường
+ có sự suy giảm đáp ứng tạo kháng thể, đồng thời số lượng và chức năng của lympho bào B cũng suy giảm
+
+Câu 133. Kháng thể bề mặt lympho bào B người đóng vai trò :
+* là thụ thể giành cho kháng nguyên của lympho bào B
+ là vị trí tương tác trực tiếp của lympho bào B với lympho bào T
+ là vị trí để lympho bào B trình diện kháng nguyên
+ bảo vệ lympho bào B
+
+Câu 134. Các phân tử kháng thể bề mặt lympho bào B trưởng thành ở người:
+ giống nhau hoàn toàn trên một lympho bào B
+ có thể khác nhau trên cùng một lympho bào B
+* B và D đúng
+ chủ yếu thuộc lớp IgM và IgD
+
+Câu 135. Lympho bào T trưởng thành ở người có thể có các dấu ấn bề mặt nào:
+ CD2
+ CD3
+* Tất cả đều đúng
+ CD4
+
+Câu 136. Chức năng của các lympho bào T trong đáp ứng miễn dịch :
+ tham gia đáp ứng miễn dịch tế bào kiểu quá mẫn muộn
+ tham gia đáp ứng miễn dịch tế bào kiểu gây độc tế bào
+ tham gia đáp ứng miễn dịch thông qua hiệu quả ADCC
+* C sai
+
+Câu 137. Chức năng của lympho bào B trong đáp ứng miễn dịch bao gồm :
+ sản xuất kháng thể 
+ sản xuất bổ thể 
+ biệt hoá thành tế bào B trí nhớ miễn dịch (memory B cell)
+* A và B sai
+
+Câu 138. Sự xuất hiện các “tâm điểm mầm” trong các nang lympho của hạch lympho thể hiện rằng :
+ hạch lympho đó có biểu hiện bất thường bệnh lý, cần có biện pháp điều trị thích hợp
+ tại hạch lympho đang diễn ra một đáp ứng miễn dịch
+ các lympho bào tại nang lympho đang trong quá trình tăng sinh để tham gia vào đáp ứng miễn dịch
+* B và C đúng
+
+Câu 139. “Vùng phụ thuộc tuyến ức” trong cấu trúc của một hạch lympho có đặc điểm là :
+* B và D đúng
+ bao gồm chủ yếu là các lympho bào T
+ ở người trưởng thành, khi tuyến ức bị thoái hoá thì vùng này trở nên thưa thớt tế bào 
+ cấu trúc bình thường của vùng này thể hiện sự phát triển bình thường của tuyến ức
+
+Câu 140. Kháng nguyên CD8 có mặt trên tế bào nào ?
+* lympho bào T gây độc
+ lympho bào T hỗ trợ
+ lympho bào B 
+ tế bào plasma 
+
+Câu 141. Tế bào nào tham gia vào đáp ứng miễn dịch qua trung gian tế bào ?
+ đại thực bào
+ bạch cầu trung tính
+ bạch cầu ái toan
+* C sai 
+
+Câu 142. Kháng nguyên CD4 có mặt trên tế bào nào ?
+ lympho bào T gây độc
+* lympho bào T hỗ trợ
+ lympho bào B 
+ bạch cầu ái toan 
+
+Câu 143. Lympho bào T biệt hoá ở cơ quan, tổ chức nào ?
+ hạch lympho
+ gan
+* tuyến ức 
+ tuỷ xương 
+
+Câu 144. Trong các cơ quan dưới đây, cơ quan nào là cơ quan lympho trung ương : 
+ hạch lympho vùng hầu họng
+ hạch mạc treo ruột 
+ lách 
+* tuyến ức
+
+Câu 145. Kháng thể chống kháng nguyên nhóm máu hệ ABO có mặt trong huyết thanh người thường có nguồn gốc là :
+ từ cơ thể mẹ chuyển sang cho thai nhi trong thời kỳ bào thai 
+ do được truyền máu có kháng thể chống kháng nguyên nhóm máu 
+* tự nhiên (bẩm sinh)
+ do được gây miễn dịch thông qua việc truyền máu khác nhóm trước đó
+
+Câu 146. Tính sinh miễn dịch của kháng nguyên phụ thuộc vào những yếu tố nào trong các yếu tố sau?
+ tính lạ của kháng nguyên
+ cấu trúc hoá học của kháng nguyên
+* Tất cả đều đúng
+ liều lượng kháng nguyên và đường đưa kháng nguyên vào cơ thể
+
+Câu 147. Tính đặc hiệu của kháng nguyên được quy định bởi :
+ toàn bộ phân tử kháng nguyên
+ các nhóm chức hoá học trong phân tử kháng nguyên
+ các quyết định kháng nguyên
+* A và B sai
+
+Câu 148. Trong hệ thống nhóm máu ABO của người có các kháng nguyên sau :
+ kháng nguyên A
+ kháng nguyên B
+ kháng nguyên O 
+* kháng nguyên A và B
+
+Câu 149. Người nhóm máu A trong huyết thanh có kháng thể gì ?
+ chống A
+* chống B
+ chống A và chống B
+ không có kháng thể chống A và chống B
+
+Câu 150. Người nhóm máu AB trong huyết thanh có kháng thể gì ?
+ chống A
+ chống B
+ chống A và chống B
+* không có kháng thể chống A và chống B
+
+Câu 151. Người nhóm máu O trong huyết thanh có kháng thể gì ?
+ chống A
+ chống B
+* chống A và chống B
+ không có kháng thể chống A và chống B
+
+Câu 152. Máu nhóm AB có thể truyền cho người có nhóm máu nào trong các nhóm máu sau ?
+* nhóm AB
+ nhóm A
+ nhóm B
+ nhóm O
+
+Câu 153. Một cặp vợ chồng trong đó vợ nhóm máu A và chồng nhóm máu B, con của cặp vợ chồng này có thể thuộc nhóm máu nào :
+ nhóm O
+ nhóm AB
+ nhóm A
+* Tất cả đều đúng
+
+Câu 154. Trong trường hợp cấp cứu, máu nhóm O có thể truyền cho người thuộc nhóm máu nào trong số các nhóm sau :
+ nhóm A
+ nhóm B
+ nhóm AB
+* nhóm O
+
+Câu 155. Tế bào mast có thể gắn với kháng thể IgE : 
+* khi kháng thể này ở dạng tự do (chưa kết hợp với kháng nguyên)
+ khi kháng thể này đã kết hợp với kháng nguyên
+ khi kháng thể này đã kết hợp với kháng nguyên và cố định bổ thể 
+ cả 3 lựa chọn trên đều đúng
+
+Câu 156. Trong một phân tử IgM huyết thanh :
+* tất cả các vị trí kết hợp kháng nguyên đều có cấu trúc và chức năng giống nhau
+ các vị trí kết hợp kháng nguyên có thể khác nhau giữa các phân tử IgM đơn phân
+ các vị trí kết hợp kháng nguyên có thể khác nhau ngay trong một phân tử IgM đơn phân
+
+Câu 157. Khi tiếp xúc với kháng nguyên đặc hiệu, một phân tử IgG :
+ có thể kết hợp đồng thời với 2 quyết định kháng nguyên có bản chất khác nhau
+ chỉ có thể kết hợp đồng thời với 2 quyết định kháng nguyên giống nhau hoàn toàn
+ có thể kết hợp đồng thời với 2 phân tử kháng nguyên khác nhau
+* B và C đúng
+
+Câu 158. IgM huyết thanh có thể tồn tại dưới các dạng : 
+ monomer
+* pentamer
+ dimer 
+
+Câu 159. IgA trong cơ thể tồn tại dưới các dạng nào dưới đây :
+ IgA tiết, dimer
+* Tất cả đều đúng
+ IgA huyết thanh, monomer
+ IgA huyết thanh, dimer
+
+Câu 160. Thành phần kháng thể trong các dịch tiết của cơ thể :
+ chỉ có kháng thể lớp IgA
+ có thể có kháng thể IgM và IgA
+ có thể có kháng thể IgM, IgG và IgA
+* có thể có tất cả các lớp kháng thể
+
+Câu 161. Thai nhi có thể tổng hợp kháng thể thuộc lớp :
+ chỉ có lớp IgG
+* lớp IgG và IgM
+ lớp IgG, IgM và IgA
+ tất cả các lớp kháng thể
+
+Câu 162. Người bị mắc bệnh lao đang được điều trị bằng thuốc chống lao, khi tiến hành test tuberculin cho kết quả âm tính chứng tỏ :
+ việc điều trị đạt hiệu quả cao
+ cơ thể người bệnh đang phục hồi tốt
+ vi khuẩn lao bị ức chế hoặc bị tiêu diệt
+* cả 3 lựa chọn trên đều sai 
+
+Câu 163. Kháng thể IgA tiết :
+ có mặt cả trong huyết thanh lẫn trong một số dịch tiết
+* chỉ có mặt trong dịch tiết
+ có nguồn gốc từ tế bào plasma trong máu ngoại vi, nhưng không có mặt trong huyết thanh
+ không phải được sản xuất bởi tế bào plasma máu ngoại vi
+
+Câu 164. Trong hiện tượng dị ứng do IgE, các biểu hiện dị ứng là do :
+ IgE tự do trong huyết thanh trực tiếp gây nên
+ IgE trên bề mặt tế bào mast và bạch cầu ái kiềm trực tiếp gây nên 
+* các chất trung gian hoá học được giải phóng từ tế bào mast và bạch cầu ái kiềm gây nên
+ cả 3 lựa chọn trên đều sai
+
+Câu 165. Tế bào mast chỉ có khả năng giải phóng các amin hoạt mạch : 
+ khi có sự gia tăng tổng hợp IgE 
+ khi có sự kết hợp của IgE tự do với dị nguyên (allergen) xâm nhập 
+* khi có sự kết hợp của IgE gắn trên bề mặt tế bào mast với dị nguyên (allergen) xâm nhập
+ khi có sự tác động của lymphokin do lympho bào T mẫn cảm sản xuất ra
+
+Câu 166. Tế bào NK : 
+* là một loại lympho bào, nhưng không phải là lympho bào B và cũng không phải là lympho bào T
+ không phải là một loại lympho bào
+ là một dưới nhóm của lympho bào T
+ là một loại tế bào thực bào
+
+Câu 167. Trong các kháng thể sau đây, kháng thể nào có khả năng cố định bổ thể mạnh nhất :
+ IgG
+* IgM
+ IgA tiết
+ IgA huyết thanh
+
+Câu 168. Người chưa từng nhiễm vi khuẩn lao, khi tiến hành test tuberculin :
+ chắc chắn cho kết quả âm tính
+* có thể cho kết quả dương tính
+ có thể cho kết quả dương tính mạnh
+ cả 3 lựa chọn trên đều sai
+
+Câu 169. Người đã từng nhiễm vi khuẩn lao, khi tiến hành test tuberculin :
+ chắc chắn cho kết quả dương tính
+* có thể cho kết quả âm tính
+ chắc chắn cho kết quả dương tính mạnh
+ cả 3 lựa chọn trên đều sai
+
+Câu 170. Lympho bào T có thể nhận diện kháng nguyên :
+* chỉ khi kháng nguyên đã bị xử lý và trình diện lên bề mặt tế bào trình diện kháng nguyên
+ ngay cả khi kháng nguyên chưa bị xử lý 
+ chỉ khi các lympho bào T ở trạng thái hoạt hoá
+ chỉ khi kháng nguyên đã kết hợp với kháng thể đặc hiệu
+
+Câu 171. Một phân tử IgM trong huyết thanh có :
+* 10 vị trí kết hợp kháng nguyên
+ 20 vị trí kết hợp kháng nguyên
+ 2 vị trí kết hợp kháng nguyên
+ 5 vị trí kết hợp kháng nguyên
+
+Câu 172. Trong mỗi phân tử IgG có bao nhiêu vị trí kết hợp kháng nguyên :
+ 1
+* 2
+ 4
+ 10
+
+Câu 173. Lympho bào B có thể nhận diện kháng nguyên :
+ khi kháng nguyên đã bị xử lý và trình diện lên bề mặt tế bào trình diện kháng nguyên
+* ngay khi kháng nguyên chưa bị xử lý
+ chỉ khi lympho bào ở trạng thái hoạt hoá
+ chỉ khi có sự hỗ trợ của lympho bào T
+
+Câu 174. Lympho bào B :
+* là một trong số các loại tế bào trình diện kháng nguyên
+ là một loại tế bào có khả năng thực bào
+ là tế bào sản xuất kháng thể
+ cả 3 lựa chọn trên đều đúng
+
+Câu 175. Hapten : 
+ tự chúng có thể gây phản ứng dị ứng mặc dù không có khả năng kích thích cơ thể sinh đáp ứng miễn dịch
+ không có khả năng gây phản ứng dị ứng
+* chỉ có khả năng gây phản ứng dị ứng khi hapten kết hợp với một protein tải
+
+Câu 176. Kháng thể có khả năng kết hợp (cố định) bổ thể : 
+* chỉ khi có ít nhất hai phân tử kháng thể trở lên và đã kết hợp với kháng nguyên
+ ngay khi kháng thể ở dạng tự do (chưa kết hợp với kháng nguyên)
+ ngay cả khi có một phân tử kháng thể, với điều kiện kháng thể đó đã kết hợp với kháng nguyên
+ khi kháng thể ở dạng monomer 
+
+Câu 177. Bổ thể có khả năng gắn với vi khuẩn :
+ trực tiếp lên bề mặt tế bào vi khuẩn
+ gián tiếp, thông qua kháng thể (hiện tượng cố định bổ thể bởi kháng thể)
+ chỉ khi vi khuẩn đã bị bất hoạt
+* A và B
+
+Câu 178. Lấy máu nhóm O truyền cho người có nhóm máu O :
+ chắc chắn không thể xảy ra tai biến truyền nhầm nhóm máu
+ có thể xảy ra tai biến truyền nhầm nhóm máu ngay từ lần truyền máu đầu tiên
+* có thể xảy ra tai biến truyền nhầm nhóm máu ở lần truyền máu thứ hai trở đi
+
+Câu 179. Trộn hồng cầu cừu với kháng thể kháng hồng cầu cừu ở nhiệt độ 370C, sẽ xảy ra hiện tượng ngưng kết hồng cầu cừu khi :
+* nồng độ kháng thể thích hợp
+ nồng độ kháng thể cao
+ nồng độ kháng thể thấp
+ kháng thể ở bất kỳ nồng độ nào
+
+Câu 180. Trộn hồng cầu cừu với kháng thể thỏ kháng hồng cầu cừu ở nhiệt độ 370C trong ống nghiệm, sẽ xảy ra hiện tượng tan tế bào hồng cầu cừu nếu :
+ bổ sung thêm huyết thanh tươi của cừu
+ bổ sung thêm huyết thanh tươi của thỏ
+ bổ sung thêm huyết thanh tươi của người
+* Tất cả đều đúng
+
+Câu 181. Cấu trúc hóa học có liên quan đến phương thức đáp ứng miễn dịch, trong đó kháng nguyên protein có khả năng gây nên:
+ Đáp ứng miễn dịch dịch thể
+ Đáp ứng miễn dịch tế bào
+* Đáp ứng miễn dịch dịch thể và đáp ứng miễn dịch tế bào
+ Đáp ứng miễn dịch tiên phát
+
+Câu 182. Kháng thể tham gia vào cơ chế điều hoà miễn dịch nhờ vào:
+ Trung hoà và loại bỏ kháng nguyên bằng cơ chế thực bào
+ Phong bế và ngăn cản kháng nguyên gắn vào FcR
+* Ức chế sản xuất kháng thể nhờ liên kết FcR đồng thời liên kết mảnh Fab
+ Vai trò của anti IL1R
+
+Câu 183. Kháng thể anti-idiotype liên kết:
+ Các epitope ở chuổi nặng
+ Các epitope ở chuổi nhẹ
+ Các idiotope ở chuổi nặng và chuổi nhẹ
+* Các idiotope ở vùng siêu biến
+
+Câu 184. Tế bào lympho Th hỗ trợ đáp ứng miễn dịch đối với các kháng nguyên phụ thuộc tuyến ức thông qua:
+ Cấu trúc đặc biệt của kháng nguyên phụ thuộc tuyến ức
+ Tế bào lympho Th có thụ thể với mảnh Fc của các lớp Ig khác nhau
+ Tác động vào tế bào lympho Tc
+* Các thụ thể TCR đặc hiệu và các cytokin
+
+Câu 185. Có sự liên quan giữa đáp ứng miễn dịch và hệ thần kinh - nội tiết do:
+ Các tế bào tham gia đáp ứng miễn dịch có thụ thể với các nội tiết tố
+ Vai trò các nội tiết tố ảnh hưởng lên đáp ứng miễn dịch
+ Thực nghiệm cắt bỏ tuyến thượng thận có ảnh hưởng đáp ứng miễn dịch
+* Tất cả các câu trên đều đúng
+
+Câu 186. Cấu trúc quyết định kháng nguyên có khả năng kích thích đáp ứng miễn dịch không cần giúp đỡ của tế bào lympho Th là:
+ Protein
+ Lipid
+ Lipopolysaccharid
+* Cấu trúc lập lại của kháng nguyên (polymeres)
+
+Câu 187. Cơ chế dung thứ không xảy ra đối với kháng nguyên (1): có mặt ở tuyến ức, (2): không có mặt ở tuyến ức trong thời kỳ bào thai; vì vậy phản ứng tự miễn có thể (a): xảy ra đối với kháng nguyên này, (b): không thể xảy ra đối với kháng nguyên này.
+  (1), (a)
+  (1), (b)
+*  (2), (a)
+  (2), (b)
+
+Câu 188. Đặc điểm của cytokin
+ Nồng độ cao trong máu
+ Tác dụng theo cơ chế cận tác (paracrin)và tự tác (autocrin)
+ Mỗi cytokin đặc hiệu cho mỗi loại tế bào miễn dịch
+* Cơ chế tác dụng đa dạng: autocrin, paracrin và endocrine (như nội tiết).
+
+Câu 189. Cytokin kích thích đáp ứng miễn dịch tế bào lympho Th1
+ IL1
+* IL2
+ IL3
+ IL4
+
+Câu 190. IFN γ do:
+ Tế bào đích nhiễm virus
+ Tế bào lympho B hoạt hoá
+ Đại thực bào nhiễm virus
+* Tế bào lympho T hoạt hoá
+
+Câu 191. Thể phong ác tính có sự hoạt hoá :
+ Tế bào Th1
+* Tế bào Th2
+ Tế bào lympho B
+ Tế bào NK
+
+Câu 192. Các cytokin tác động vào gan sản xuất protein viêm của pha cấp:
+ IL1, IL2, IL3
+ IL4, IL5, IL6
+* IL6, IL1, TNFα
+ IL2, IL5, TNFα
+
+Câu 193. Cytokin có thể phân loại theo (Câu 1.) bản chất hoá học (2): cấu trúc thụ thể, trong đó chemokin là (a) nhóm cytokin hoá hướng động (b) viết tắt là CXC
+  (1), (a)
+  (1), (b)
+*  (2), (a)
+  (2), (b)
+
+Câu 194. Cytokin tăng biểu lộ phân tử dính mạnh nhất trong phản ứng viêm
+ IL5
+ IL6
+ IL7
+* IL8
+
+Câu 195. Liều lượng của kháng nguyên có liên quan đến phương thức đáp ứng miễn dịch, trong đó liều cao có thể:
+ Tăng cường đáp ứng miễn dịch dịch thể
+ Tăng cường đáp ứng miễn dịch tế bào
+ Tăng cường đáp ứng cả hai loại đáp ứng miễn dịch
+* Gây tê liệt miễn dịch
+
+Câu 196. Kháng thể tham gia vào cơ chế điều hoà miễn dịch nhờ vào:
+ Trung hoà và loại bỏ kháng nguyên bằng cơ chế opsonin hóa
+ Phong bế và ngăn cản kháng nguyên gắn vào sIg
+ Ức chế sản xuất kháng thể nhờ liên kết FcR đồng thời liên kết mảnh Fab
+* Tất cả các câu trên đều đúng
+
+Câu 197. Cơ chế dung thứ không xảy ra đối với kháng nguyên (1): có mặt ở tuyến ức, (2): không có mặt ở tuyến ức trong thời kỳ bào thai; vì vậy phản ứng tự miễn có thể (a): xảy ra đối với kháng nguyên này, (b): không thể xảy ra đối với kháng nguyên này.
+  (1), (a)
+  (1), (b)
+*  (2), (a)
+  (2), (b)
+
+Câu 198. IFN γ do:
+ Tế bào đích nhiễm virus
+ Tế bào lympho B hoạt hoá
+ Đại thực bào nhiễm virus
+* Tế bào lympho T hoạt hoá
+
+Câu 199. Các cytokin gây sốt:
+ IL-1, IL-2
+ IL4, IL-5
+* IL-6, IL-1
+ IL-2, IL-5
+
+Câu 200. Cytokin tăng biểu lộ phân tử dính mạnh nhất trong phản ứng viêm nên có thể sử dụng kháng cytokin để
+ IL-2
+ IL6
+ IL-7
+* IL-8
+
+Câu 201. Các kháng nguyên gây dị ứng còn được gọi là dị nguyên có đặc điểm:
+ Gây dị ứng
+ Cấu trúc hóa học thường đơn giản
+ Gồm có hai nhóm hô hấp và tiêu hóa
+* Bản chất thường vô hại
+
+Câu 202.  Dị ứng Penicillin do cơ chế :
+ Quá mẫn type I
+ Quá mẫn type II
+ Quá mẫn type III
+* Tất cả các câu trên đều đúng
+
+Câu 203.Tham gia vào cơ chế chuyển đổi IgG sang IgE có vai trò của cytokin nào ?
+ IL-1
+ IL-2
+* IL-4
+ IL-5
+
+Câu 204.Chất cản quang ứng sử dụng trong XQuang, có thể gây dị ứng do tính thẩm thấu (1) cao (2) thấp; dẫn đến (3) hoạt hoá bổ thể (4) hoạt hoá tế bào mast giải phóng histamin gây dị ứng:
+ (1), (3)
+* (1), (4)
+ (2), (3)
+ (2), (4)
+
+Câu 205. Các thụ thể của IgE gồm có FcεRI có trên (1) tế bào ái toan (2) tế bào ái kiềm; là những thụ thể có (3) ái tính mạnh (4) ái tính yếu:
+* (1), (3)
+ (1), (4)
+ (2), (3)
+ (2), (4)
+
+Câu 206. Cơ chế khởi phát chàm do tiếp xúc: (1) có liên quan dị nguyên (2) xảy ra tự nhiên (3) xuất hiện muộn (4) thường kèm tăng IgE:
+* (1), (3)
+ (1), (4)
+ (2), (3)
+ (2), (4)
+
+Câu 207. Tổn thương bệnh tự miễn xảy ra do tự kháng thể tấn công trực tiếp tổ chức xảy ra ở bệnh nào?
+ Bệnh lupus ban đỏ rãi rác
+* Bệnh viêm cầu thận cấp do liên cầu khuẩn
+ Bệnh viêm đa khớp dạng thấp
+ Bệnh Sjogren
+
+Câu 208. Cơ chế bệnh sinh của viêm khớp dạng thấp do (1): kháng thể anti IgM, (2): kháng thể anti IgG; chủ yếu thuộc lớp (a): IgM, (b): IgG .
+  (1), (a)
+  (1), (b)
+*  (2), (a)
+  (2), (b)
+
+Câu 209. Kháng thể kháng nhân là kháng thể (1): kháng DNA, (2): kháng axit nhân hoà tan; trong đó anti-Sm đặc hiệu (a): hội chứng Raynaud, (b): bệnh lupus ban đỏ.
+  (1), (a)
+  (1), (b)
+  (2), (a)
+*  (2), (b)
+
+Câu 210. Cơ chế bệnh sinh bệnh tự miễn có liên quan yếu tố di truyền, và điều trị bệnh tự miễn dựa trên nguyên tắc:
+ Phòng chống tích cực bằng vắc xin
+ Sử dụng kháng thể đơn dòng
+* Kháng viêm và ức chế đáp ứng miễn dịch
+ Điều hòa đáp ứng miễn dịch
+
+Câu 211. Tổn thương trong bệnh viêm tuyến giáp Hashimoto :
+ Phản ứng thâm nhiễm của các tế bào viêm
+ Tổn thương của bướu giáp lành tính
+ Do tự kháng thể kháng thụ thể TSH
+* Do tự kháng thể kháng thyroid peroxidase
+
+Câu 212. Vắc xin không cần thiết có tiêu chuẩn nào:
+ An toàn
+ Tính sinh miễn dịch cao
+ Giá thành chấp nhận được
+* Sử dụng đường uống là tốt nhất
+
+Câu 213. Đường vào của kháng nguyên có liên quan đến hiệu quả đáp ứng  miễn dịch, vì vậy chủng BCG có thể sử dụng con đường nào:
+ Tiêm bắp để kháng nguyên có thể tiếp xúc tế bào lympho
+* Tiếm dưới da để kháng nguyên tiếp xúc với tế bào Langerhans
+ Tiếm trong da để kháng nguyên có cơ hội tiếp xúc với tế bào lympho
+ Gây tê liệt miễn dịch
+
+Câu 214. Thụ thể mảnh Fc tham gia vào cơ chế điều hoà miễn dịch nhờ vào:
+ Trung hoà và loại bỏ kháng nguyên bằng cơ chế opsonin hóa
+ Phong bế và ngăn cản kháng nguyên gắn vào sIg
+* Ức chế sản xuất kháng thể nhờ liên kết FcR đồng thời liên kết mảnh Fab
+ Vai trò của anti IL1R
+
+Câu 215.Tham gia vào cơ chế hoạt hóa tế bào ái toan có vai trò của cytokin nào ?
+ IL-1
+ IL-2
+* IL-4
+ IL-5
+
+Câu 216. IFN -α tiết ra do:
+* Tế bào đích nhiễm virus
+ Tế bào lympho B hoạt hoá
+ Đại thực bào nhiễm virus
+ Tế bào lympho T hoạt hoá
+
+Câu 217. Các cytokin gây sốt:
+ IL-1, IL-2- IL4
+ IL-1, IL4, IL-5
+* IL-6, IL-1, TNF-α
+ IL-1, IL-2, IL-5
+
+Câu 218. Cytokin tăng biểu lộ phân tử dính mạnh nhất trong phản ứng viêm
+ IL-5
+ I-L6
+ IL-7
+* IL-8
+
+Câu 219. Các kháng nguyên gây dị ứng còn được gọi là dị nguyên có đặc điểm:
+ Gây dị ứng
+* Cấu trúc hóa học thường đơn giản
+ Gồm có hai nhóm hô hấp và tiêu hóa
+ Bản chất thường có hại
+
+Câu 220. Viêm da tiếp xúc do cơ chế :
+ Quá mẫn type I
+ Quá mẫn type II
+ Quá mẫn type III
+* Quá mẫn type IV
+
+Câu 221.Một số thức ăn như dâu tây, cà chuv.v.có thể gây dị ứng do (1) tính thẩm thấu cao (2) có sẳn histamin (3) hoạt hoá bổ thể (4) hoạt hoá tế bào mast giải phóng histamin gây dị ứng
+ (1), (3)
+ (1), (4)
+ (2), (3)
+* (2), (4)
+
+Câu 222. Các thụ thể của IgE gồm có FcεRII có trên (1) tế bào ái toan (2) tiểu cầu; là những thụ thể có (3) ái tính mạnh (4) ái tính yếu
+ (1), (3)
+ (1), (4)
+ (2), (3)
+* (2), (4)
+
+Câu 223. Cơ chế bệnh sinh của chàm thể tạng: (1) xảy ra tự nhiên (2) có liên quan dị nguyên (3) xuất hiện muộn (4) thường kèm tăng IgE toàn phần
+ (1), (3)
+* (1), (4)
+ (2), (3)
+ (2), (4)
+
+Câu 224. Tổn thương bệnh tự miễn thường xảy ra do phức hợp miễn dịch lắng đọng tại tổ chức như trong bệnh
+ Bệnh basedow
+ Bệnh đái tháo đường typ I
+* Bệnh lupus ban đỏ rãi rác
+ Bệnh Crohn
+
+Câu 225. Cơ chế bệnh sinh của Hội chứng khô tuyến do (1): kháng thể anti IgM, (2): kháng thể anti IgG; chủ yếu thuộc lớp (3): IgM, (4): IgG .
+ (1), (3)
+ (1), (4)
+ (2), (3)
+* Tất cả các câu trên không đúng
+
+Câu 226. Kháng thể kháng nhân là kháng thể
+ Kháng DNA chuổi đơn (ssDNA)
+ Kháng axit nhân hoà tan
+ Kháng DNA chuổi đôi (ds DNA)
+* Tất cả các câu trên đều đúng
+
+Câu 227. Cơ chế bệnh sinh bệnh lupus ban đỏ liên quan yếu tố di truyền, tuy nhiên vai trò môi trường cũng rất quan trọng, trong đó quan trọng nhất là:
+ Ô nhiễm môi trường
+ Dùng thuốc ngừa thai
+ Hút thuốc lá
+* Nhiễm trùng
+
+Câu 228. Điều trị bệnh tự miễn dựa trên nguyên tắc:
+ Phòng chống tích cực bằng vắc xin
+ Sử dụng kháng thể đơn dòng
+* Kháng viêm và ức chế đáp ứng miễn dịch
+ Điều hòa đáp ứng miễn dịch
+
+Câu 229. Tổn thương trong bệnh viêm tuyến giáp Basedow :
+ Phản ứng thâm nhiễm của các tế bào viêm
+ Tổn thương của bướu giáp lành tính
+* Do tự kháng thể kháng thụ thể TSH
+ Do tự kháng thể kháng TSH
+
+Câu 230. Vắc xin chống sởi là vắc xin
+ Tái tổ hợp gen
+* Virus sống giảm độc lực
+ Có thể chủng ngừa ở trẻ suy giảm miễn dịch
+ Vắc xin sử dụng virus đã chết
+
+Câu 231. Vắc xin viêm gan B thế hệ 1 là vắc xin:
+ Sản xuất từ nấm men
+ Sản xuất từ huyết tương
+* Sản xuất từ kháng nguyên vỏ virus
+ Sản xuất từ kháng nguyên nhân virus
+
+Câu 232. Quá trình giải mẫn cảm mục đích làm:
+ Tăng cường đáp ứng miễn dịch
+ Ức chế đáp ứng miễn dịch
+ Điều hòa đáp ứng miễn dịch
+* Tạo nên đáp ứng miễn dịch do IgG
+
+Câu 233. Phương pháp giải mân cảm dựa trên nguyên tắc sử dụng kháng nguyên:
+ Bằng đường tiêm tĩnh mạch
+ Cấu trúc hóa học đơn giản
+ Kháng nguyên tái tổ hợp
+* Liều nhỏ kháng nguyên tăng dần
+
+Câu 234. Bất đồng nhóm máu ABO xảy ra ở trẻ sơ sinh do (1) nhóm máu A hoặc B hoặc AB và con nhóm máu O; (2) mẹ có nhóm máu O và con A hoặc B hoặc A Bệnh xảy ra do (3) kháng nguyên Rhesus ở mẹ ngưng kết kháng thể của con , (4) kháng nguyên Rhesus ở con ngưng kết với kháng thể ở mẹ.
+ (1), (3)
+ (1), (4)
+ (2), (3)
+* (2), (4)
+
+Câu 235. CRP là protein được sản xuất do (1) tế bào lympho, (2) tế bào gan dưới tác động của (3) IL-1 (4) Il-2 của đại thực bào hoạt hóa .
+ (1), (3)
+ (1), (4)
+* (2), (3)
+ (2), (4)
